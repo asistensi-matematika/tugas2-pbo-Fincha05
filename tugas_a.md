@@ -1,5 +1,6 @@
 # TUGAS 2 ASISTENSI PBO - Jumat, 27 September 2019
 *soal ini berbobot lebih daripada soal sebelah*
+
 NAMA: Fincha Irbahazara Zulfa
 
 NRP: 06111840000109
@@ -47,7 +48,13 @@ output: -27i3
 ```
 
 ## screenshot hasil
-`masukkan screenshot output disini`
+soal 1 = 
+
+![Capture1](https://user-images.githubusercontent.com/56105862/66188608-e3fb2e00-e6b1-11e9-8886-89fdd0774ec5.PNG)
+
+soal 2 = 
+
+![Capture2](https://user-images.githubusercontent.com/56105862/66188613-e9587880-e6b1-11e9-8304-2feddd342916.PNG)
 
 ## UPLOAD
 upload seluruh folder project java-nya ke repository ini.
